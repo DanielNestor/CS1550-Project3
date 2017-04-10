@@ -16,8 +16,8 @@ work - working set clock algorithm
 -r - this is only used in algorithms that require a refresh interval such as aging
 
 Info about Tracefiles:
-All tracefiles should be in basic text form. This program is desined to read tracefiles where each line is in this format
-<address> <R/W>
+All tracefiles should be in basic text form. This program is designed to read tracefiles where each line is in this format
+address R/W
 Example
 0041f7a0 R
 0041f7f0 w
